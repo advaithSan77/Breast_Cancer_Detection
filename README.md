@@ -1,0 +1,1 @@
+The breast cancer detection system builds a machine learning model to classify the patients based on the type of tumor they have. The project is built on jupyter notebooks using python and its libraries such as pandas, numpy, scikit-learn and keras. The tumors are classified on 30 features describing the tumor's charateristics. They are classified as either malignant or benign.
